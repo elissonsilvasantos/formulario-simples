@@ -15,12 +15,12 @@ body {
 
 /* Cabeçalho da página */
 header {
-    background-color: aquamarine;
+    background-color: #035e7b;
     padding: 10px;
     text-align: center;
 }
 h1 {
-    background-color: aqua;
+    /* background-color: aqua; */
     display: inline;
     
     font-family: Arial, Helvetica, sans-serif;
@@ -28,7 +28,7 @@ h1 {
 
 /* Meio da página */
 main {
-    background-color: blue;
+    background-color: #fffdfd;
     padding: 10px;
 
     flex: 1;
@@ -37,7 +37,7 @@ main {
 
 }
 div#principal {
-    background-color: cyan;
+    background-color: #98b06f;
     padding: 10px;
     width: 50%;
     border-radius: 10px;
@@ -57,7 +57,7 @@ p#comentario {
     
 }
 form {
-    background-color: cadetblue;
+    background-color: #035e7b;
     display: grid;
     grid-template-columns: 30% 70%;
     gap: 5px;
@@ -76,7 +76,7 @@ input#botao {
 
 /* Rodapé da página */
 footer {
-    background-color:darkgreen;
+    background-color:#035e7b;
     /* position: fixed;
     bottom: 0; */
     /* width: 100%; */
