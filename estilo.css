@@ -1,0 +1,88 @@
+html {
+    height: 100%;
+    margin: 0;
+}
+body {
+    background-color: chocolate;
+    display: flex;
+    height: 100%;
+    min-height: 100vh;
+    margin: 0;
+    flex-direction: column;
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Cabeçalho da página */
+header {
+    background-color: aquamarine;
+    padding: 10px;
+    text-align: center;
+}
+h1 {
+    background-color: aqua;
+    display: inline;
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Meio da página */
+main {
+    background-color: blue;
+    padding: 10px;
+
+    flex: 1;
+    display: flex;
+    justify-content: center;
+
+}
+div#principal {
+    background-color: cyan;
+    padding: 10px;
+    width: 50%;
+    border-radius: 10px;
+    /* margin-bottom: 100px; */
+}
+h2#titulo-formulario {
+    font-size: 28pt;
+    text-align: center;
+    margin-bottom: 20px;
+
+    
+}
+p#comentario {
+    text-align: center;
+    margin-top: 0px;
+
+    
+}
+form {
+    background-color: cadetblue;
+    display: grid;
+    grid-template-columns: 30% 70%;
+    gap: 5px;
+
+    width: 55%;
+    padding: 25px;
+    border-radius: 10px;
+    margin: auto;
+}
+.campo {
+    position: relative;
+}
+input#botao {
+    grid-column: 2;
+}
+
+/* Rodapé da página */
+footer {
+    background-color:darkgreen;
+    /* position: fixed;
+    bottom: 0; */
+    /* width: 100%; */
+
+    padding: 10px;
+}
+p#final {
+    text-align: center;
+}
