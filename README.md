@@ -2,7 +2,7 @@
 Este é um projeto simples de página web com formulário.
 
 ## :computer: Faça o teste
-O projeto pode ser utilizado em: (em breve)
+O projeto pode ser utilizado em: https://formulario-cadastro-simples.netlify.app
 
 ## :bulb: Demonstração
 [Imagem do projeto](https)
