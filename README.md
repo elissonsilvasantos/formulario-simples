@@ -8,7 +8,7 @@ O projeto pode ser utilizado em: https://formulario-cadastro-simples.netlify.app
 [Imagem do projeto](https)
 
 ## :hammer: Tecnologias utilizadas
-Foram utilizados HTML e CSS para construir a página web.
+Foram utilizados HTML e CSS para construir a página web. O sistema está hospedado no Netlify.
 
 ## :gear: Como foi feito
 Em breve
