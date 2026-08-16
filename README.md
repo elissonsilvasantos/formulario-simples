@@ -5,7 +5,7 @@ Este é um projeto simples de página web com formulário.
 O projeto pode ser utilizado em: https://formulario-cadastro-simples.netlify.app
 
 ## :bulb: Demonstração
-![Imagem do projeto](imagem-projeto.png)
+![Imagem do projeto](imagem-projeto.PNG)
 
 ## :hammer: Tecnologias utilizadas
 Foram utilizados HTML e CSS para construir a página web. O sistema está hospedado no Netlify.
